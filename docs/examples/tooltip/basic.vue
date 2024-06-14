@@ -74,7 +74,7 @@
       <el-tooltip
         class="box-item"
         effect="dark"
-        content="Right Bottom prompts info"
+        content="Right Bottom prompts info地方建档立卡荆防颗粒受打击阿发卡拉季阿萨达拉法基双打卡垃圾发啦；看"
         placement="right-end"
       >
         <el-button>right-end</el-button>
